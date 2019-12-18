@@ -1,3 +1,4 @@
+.dart_tool
 .DS_Store
 .atom/
 .idea
@@ -15,6 +16,7 @@ example/ios/Podfile.lock
 **/Flutter/Flutter.framework/
 **/Flutter/Generated.xcconfig/
 **/Flutter/flutter_assets/
+**/ios/Runner/GeneratedPluginRegistrant.*
 example/ios/Flutter/flutter_export_environment.sh
 android/.project
 android/.settings/
